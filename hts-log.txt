@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Nov 2020 18:00:01 at https://paulpaulpaule.godaddysites.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://paulpaulpaule.godaddysites.com/ -O1 "C:\My Web Sites\dl" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:00:25	Error: 	"Not Found" (404) at link https://paulpaulpaule.godaddysites.com/[object Object] (from https://paulpaulpaule.godaddysites.com/)
+18:00:27	Error: 	"Not Found" (404) at link https://paulpaulpaule.godaddysites.com/blog/f.atom (from https://paulpaulpaule.godaddysites.com/blog)
+18:00:27	Error: 	"Not Found" (404) at link https://paulpaulpaule.godaddysites.com/blog/f.json (from https://paulpaulpaule.godaddysites.com/blog)
+18:00:27	Error: 	"Not Found" (404) at link https://paulpaulpaule.godaddysites.com/blog/f.rss (from https://paulpaulpaule.godaddysites.com/blog)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 62 links scanned, 57 files written (1506393 bytes overall) [469484 bytes received at 18057 bytes/sec], 1506427 bytes transferred using HTTP compression in 58 files, ratio 26%, 6.8 requests per connection
+(4 errors, 0 warnings, 0 messages)
